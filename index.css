@@ -1,0 +1,5 @@
+.img-responsive {
+    max-width: 70%; /* Adjust to your preference */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center the image */
+  }
